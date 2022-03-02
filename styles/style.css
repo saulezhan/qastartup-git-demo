@@ -5,7 +5,11 @@ body {
 .main-block {
     width: 300px;
     height: 150px;
+<<<<<<< HEAD
     background-color: #20d9a8;
+=======
+    background-color: whitesmoke;
+>>>>>>> 2aa51ef846ee636ca7ac38e925c9c5bffe8d1931
     display: flex;
     align-items: center;
     justify-content: center;
@@ -13,6 +17,14 @@ body {
 }
 
 .main-block-message {
+<<<<<<< HEAD
     font-size: 23px;
     color: white;
+=======
+    font-size: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+>>>>>>> 2aa51ef846ee636ca7ac38e925c9c5bffe8d1931
 }
